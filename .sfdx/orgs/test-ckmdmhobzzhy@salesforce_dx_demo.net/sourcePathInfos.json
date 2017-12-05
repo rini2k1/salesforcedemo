@@ -1,0 +1,270 @@
+[
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1512484290000,
+            "changeTime": 1512484290000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1512484290000,
+            "changeTime": 1512484290000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1512484823000,
+            "changeTime": 1512484823000,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 68,
+            "modifiedTime": 1512484290000,
+            "changeTime": 1512484290000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1512484520000,
+            "changeTime": 1512484520000,
+            "contentHash": "3dae32c665681fc89661729c131899b7036b97f4",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/objects/Case/fields/Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/objects/Case/fields/Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1237,
+            "modifiedTime": 1512484823000,
+            "changeTime": 1512484823000,
+            "contentHash": "4ca3baca49e3e18c1cb34374ee35bca0993f9e13"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/layouts/CaseClose-Close Case Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/layouts/CaseClose-Close Case Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1287,
+            "modifiedTime": 1512484823000,
+            "changeTime": 1512484823000,
+            "contentHash": "8a8f7bb1b7f532a582c1a32369b5fe357181c5e5"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/layouts/Case-Case %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/layouts/Case-Case %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 11850,
+            "modifiedTime": 1512484823000,
+            "changeTime": 1512484823000,
+            "contentHash": "ae409ddabac9e0afbd6153343b7e153ff7209688"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/layouts/Case-Case %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/layouts/Case-Case %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 11850,
+            "modifiedTime": 1512484823000,
+            "changeTime": 1512484823000,
+            "contentHash": "6dfcafd1759004c3f36845b4de65b463f885595b"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/layouts/Case-Case %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/layouts/Case-Case %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 12049,
+            "modifiedTime": 1512484823000,
+            "changeTime": 1512484823000,
+            "contentHash": "02feb086d74df29fc05f0ad6fe8c2273cd34e2a0"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/layouts/Case-Case Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/layouts/Case-Case Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 12045,
+            "modifiedTime": 1512484823000,
+            "changeTime": 1512484823000,
+            "contentHash": "cb7fa827e0e1a280b40edc3eaa18f6a5caf6ca55"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4460,
+            "modifiedTime": 1512484823000,
+            "changeTime": 1512484823000,
+            "contentHash": "dfe3da2c9fc5def5044213b3db2ea8b76aae12e8"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4800,
+            "modifiedTime": 1512484823000,
+            "changeTime": 1512484823000,
+            "contentHash": "ce6fd3d6b3fe70d0d0231f2f222c3b4b601116e5"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4464,
+            "modifiedTime": 1512484823000,
+            "changeTime": 1512484823000,
+            "contentHash": "a41bbd52cbbcab5a02b6f27c1e98307a95e42dbc"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17146,
+            "modifiedTime": 1512484823000,
+            "changeTime": 1512484823000,
+            "contentHash": "9a60117abdc06ef1266c2e45e7ab36b3f5f011b0"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/objects/Case/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/objects/Case/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1512484823000,
+            "changeTime": 1512484823000,
+            "contentHash": "7546daeafe8869d18b37d2b8437a616c539efbd2"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/objects/Case",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/objects/Case",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1512484823000,
+            "changeTime": 1512484823000,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1512484823000,
+            "changeTime": 1512484823000,
+            "contentHash": "9254c4bba00f5ff69304a7921d3118fcbac7e6b8"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1512484823000,
+            "changeTime": 1512484823000,
+            "contentHash": "ac6c3774a01fd4442bb277c304be6628331de801"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/SalesforceDXDemo/SalesforceDXDemo/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1512484823000,
+            "changeTime": 1512484823000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
